@@ -19,7 +19,7 @@ Games in game theory can be classified into different types, such as cooperative
 
 The Prisoner's Dilemma is a classic example in game theory. In this scenario, two suspects are arrested and placed in separate cells. Each has the option to either collude and betray the other or stay silent. The outcome depends on the combined decisions made by both suspects. If both remain silent, they receive a lesser sentence. However, if one betrays and the other remains silent, the silent one gets the heaviest sentence, and if both confess, they receive a moderately heavy sentence. The dilemma is that regardless of what the other person does, it is always better for an individual to confess, but if both confess, they both end up worse off than if they had both remained silent.
 
-![Prisoners Dilemna](prisonsers.png)
+![Prisoners Dilemna](Prisoners Dilemna.png)
 
 Game theory has applications in various fields such as economics, biology, political science, and computer science. It helps in understanding strategic decision-making, predicting outcomes, and finding optimal strategies in situations where the actions of others significantly impact the result. It's widely used in analyzing markets, competition, auctions, negotiations, and various real-life scenarios involving multiple decision-makers.
 
