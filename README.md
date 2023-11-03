@@ -1,6 +1,19 @@
-# Game Theory
-Game theory, branch of applied mathematics that provides tools for analyzing situations in which parties, called players, make decisions that are interdependent. This interdependence causes each player to consider the other player’s possible decisions, or strategies, in formulating strategy. A solution to a game describes the optimal decisions of the players, who may have similar, opposed, or mixed interests, and the outcomes that may result from these decisions.
+# Prisoners Dilemna
+## Game Theory
+Game theory is a branch of applied mathematics and economics that deals with the study of strategic decision-making among multiple interdependent and rational decision-makers, known as "players," in situations where the outcome of a participant's choice depends on the choices of others.
 
-Although game theory can be and has been used to analyze  games, its applications are much broader. In fact, game theory was originally developed by the Hungarian-born American mathematician John von Neumann and his Princeton University colleague Oskar Morgenstern, a German-born American economist, to solve problems in economics. In their book The Theory of Games and Economic Behavior (1944), von Neumann and Morgenstern asserted that the mathematics developed for the physical sciences, which describes the workings of a disinterested nature, was a poor model for economics. They observed that economics is much like a game, wherein players anticipate each other’s moves, and therefore requires a new kind of mathematics, which they called game theory. (The name may be somewhat of a misnomer—game theory generally does not share the fun or frivolity associated with games.)
+Key components of game theory include:
 
-Game theory has been applied to a wide variety of situations in which the choices of players interact to affect the outcome. In stressing the strategic aspects of decision making, or aspects controlled by the players rather than by pure chance, the theory both supplements and goes beyond the classical theory of probability. It has been used, for example, to determine what political coalitions or business conglomerates are likely to form, the optimal price at which to sell products or services in the face of competition, the power of a voter or a bloc of voters, whom to select for a jury, the best site for a manufacturing plant, and the behaviour of certain animals and plants in their struggle for survival. It has even been used to challenge the legality of certain voting systems. - Britanica.com
+1. **Players:** Individuals or entities making decisions in the context of the game.
+
+2. **Strategies:** The various options or choices available to each player.
+
+3. **Payoffs:** The rewards or outcomes associated with different combinations of strategies chosen by players.
+
+4. **Rules:** The framework or set of rules that govern the game, outlining what actions are permissible and the sequence of play.
+
+Games in game theory can be classified into different types, such as cooperative or non-cooperative games. Non-cooperative games, which are the most common focus of game theory, involve players making decisions independently and without the ability to negotiate or form binding agreements. These games are analyzed using concepts like Nash equilibrium, which is a situation in which each player's strategy is optimal given the strategies of the other players.
+
+The Prisoner's Dilemma is a classic example in game theory. In this scenario, two suspects are arrested and placed in separate cells. Each has the option to either confess and betray the other or stay silent. The outcome depends on the combined decisions made by both suspects. If both remain silent, they receive a lesser sentence. However, if one confesses and the other remains silent, the silent one gets the heaviest sentence, and if both confess, they receive a moderately heavy sentence. The dilemma is that regardless of what the other person does, it is always better for an individual to confess, but if both confess, they both end up worse off than if they had both remained silent.
+
+Game theory has applications in various fields such as economics, biology, political science, and computer science. It helps in understanding strategic decision-making, predicting outcomes, and finding optimal strategies in situations where the actions of others significantly impact the result. It's widely used in analyzing markets, competition, auctions, negotiations, and various real-life scenarios involving multiple decision-makers.
