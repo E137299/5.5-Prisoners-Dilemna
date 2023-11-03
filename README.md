@@ -24,3 +24,11 @@ The Prisoner's Dilemma is a classic example in game theory. In this scenario, tw
 Game theory has applications in various fields such as economics, biology, political science, and computer science. It helps in understanding strategic decision-making, predicting outcomes, and finding optimal strategies in situations where the actions of others significantly impact the result. It's widely used in analyzing markets, competition, auctions, negotiations, and various real-life scenarios involving multiple decision-makers.
 
 Example of Prisoners Dilemna (Game Show): https://youtu.be/S0qjK3TWZE8?si=7EkQe0syQBabf5mK
+
+## Instructions (You may work with a partner):
+- Required Methods:
+  - **Look at Last Ten Rounds**: This strategy involves analyzing the opponent's behavior over the last ten rounds. The condition is to check if the opponent's cooperation rate is more than 50% or not. If the opponent has colluded (cooperated) more than half the time in the last ten rounds, the strategy chooses to cooperate. If the opponent's cooperation rate falls below 50%, the strategy will defect.
+  - **Last Ten Rounds: React to Sustained Betrayals**: This strategy focuses on observing the opponent's behavior over ten rounds. The condition for this strategy is to look for patterns where the opponent betrays in five consecutive rounds within the last ten rounds. If the opponent exhibits this pattern of five consecutive betrayals, the strategy will choose to betray otherwise collude.
+  - **Pavlov**: Pavlov, also known as "Win-Stay, Lose-Switch," begins by cooperating. If you receive a good outcome (both players cooperate or both defect), continue with the same action. If the outcome is bad (opponent defects while you cooperate or vice versa), switch strategies. It's an adaptive strategy that tries to maintain a cooperative stance if it's beneficial.
+- Two Methods of Your Own Design
+
